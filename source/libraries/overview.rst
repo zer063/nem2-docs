@@ -24,6 +24,11 @@ Do you need to create a NIP to create a library? No, you don’t. In fact, we su
 
 Non-NIP libraries could become NIP Library.
 
+*******
+Example
+*******
+`Apostille Library <https://github.com/nemtech/NIP/issues/2>`_: Apostille is a standard that enables a very versatile blockchain certificate system. It is used for a variety of use cases including the following
+
 
 .. |NIP| raw:: html
 
